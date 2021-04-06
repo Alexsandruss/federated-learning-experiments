@@ -1,0 +1,49 @@
+[13:04:14] INFO     Sending metric for task train, round number 0: cross_entropy    0.19335751235485077                                      collaborator.py:365
+[13:04:16] INFO     Sending metric for task locally_tuned_model_validation, round number 0: acc     0.9058                                   collaborator.py:365
+[13:04:18] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:04:20] INFO     Sending metric for task aggregated_model_validation, round number 1: acc        0.9058                                   collaborator.py:365
+[13:04:33] INFO     Sending metric for task train, round number 1: cross_entropy    0.08388293534517288                                      collaborator.py:365
+[13:04:35] INFO     Sending metric for task locally_tuned_model_validation, round number 1: acc     0.938                                    collaborator.py:365
+[13:04:37] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:04:39] INFO     Sending metric for task aggregated_model_validation, round number 2: acc        0.938                                    collaborator.py:365
+[13:04:52] INFO     Sending metric for task train, round number 2: cross_entropy    0.07634958624839783                                      collaborator.py:365
+[13:04:54] INFO     Sending metric for task locally_tuned_model_validation, round number 2: acc     0.9522                                   collaborator.py:365
+[13:04:56] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:04:58] INFO     Sending metric for task aggregated_model_validation, round number 3: acc        0.9522                                   collaborator.py:365
+[13:05:11] INFO     Sending metric for task train, round number 3: cross_entropy    0.07338045537471771                                      collaborator.py:365
+[13:05:13] INFO     Sending metric for task locally_tuned_model_validation, round number 3: acc     0.96                                     collaborator.py:365
+[13:05:15] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:05:17] INFO     Sending metric for task aggregated_model_validation, round number 4: acc        0.96                                     collaborator.py:365
+[13:05:30] INFO     Sending metric for task train, round number 4: cross_entropy    0.0721372663974762                                       collaborator.py:365
+[13:05:31] INFO     Sending metric for task locally_tuned_model_validation, round number 4: acc     0.9638                                   collaborator.py:365
+[13:05:34] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:05:35] INFO     Sending metric for task aggregated_model_validation, round number 5: acc        0.9638                                   collaborator.py:365
+[13:05:49] INFO     Sending metric for task train, round number 5: cross_entropy    0.07145052403211594                                      collaborator.py:365
+[13:05:50] INFO     Sending metric for task locally_tuned_model_validation, round number 5: acc     0.9692                                   collaborator.py:365
+[13:05:53] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:05:54] INFO     Sending metric for task aggregated_model_validation, round number 6: acc        0.9692                                   collaborator.py:365
+[13:06:07] INFO     Sending metric for task train, round number 6: cross_entropy    0.07054277509450912                                      collaborator.py:365
+[13:06:09] INFO     Sending metric for task locally_tuned_model_validation, round number 6: acc     0.9654                                   collaborator.py:365
+[13:06:11] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:06:13] INFO     Sending metric for task aggregated_model_validation, round number 7: acc        0.9654                                   collaborator.py:365
+[13:06:26] INFO     Sending metric for task train, round number 7: cross_entropy    0.07013361155986786                                      collaborator.py:365
+[13:06:28] INFO     Sending metric for task locally_tuned_model_validation, round number 7: acc     0.9708                                   collaborator.py:365
+[13:06:30] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:06:32] INFO     Sending metric for task aggregated_model_validation, round number 8: acc        0.9708                                   collaborator.py:365
+[13:06:44] INFO     Sending metric for task train, round number 8: cross_entropy    0.06999793648719788                                      collaborator.py:365
+[13:06:46] INFO     Sending metric for task locally_tuned_model_validation, round number 8: acc     0.9698                                   collaborator.py:365
+[13:06:49] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     Received the following tasks: ['aggregated_model_validation', 'train', 'locally_tuned_model_validation']                 collaborator.py:118
+[13:06:50] INFO     Sending metric for task aggregated_model_validation, round number 9: acc        0.9698                                   collaborator.py:365
+[13:07:03] INFO     Sending metric for task train, round number 9: cross_entropy    0.0697915181517601                                       collaborator.py:365
+[13:07:04] INFO     Sending metric for task locally_tuned_model_validation, round number 9: acc     0.9746                                   collaborator.py:365
+[13:07:07] INFO     Waiting for tasks...                                                                                                     collaborator.py:156
+           INFO     End of Federation reached. Exiting...                                                                                    collaborator.py:126

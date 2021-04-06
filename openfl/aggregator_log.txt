@@ -1,0 +1,130 @@
+INFO     Starting Aggregator gRPC Server                                                                                                server.py:239
+[13:03:59] INFO     Sending tasks to collaborator 1 for round 0                                                                                aggregator.py:276
+[13:04:01] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 0                                            aggregator.py:428
+[13:04:15] INFO     Collaborator 1 is sending task results for train, round 0                                                                  aggregator.py:428
+[13:04:16] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 0                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9058                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.1934                                                                                                     aggregator.py:742
+[13:04:18] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.1016                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.101600                                                                                   aggregator.py:753
+INFO     Saving round 1 model...                                                                                                    aggregator.py:787
+INFO     Starting round 1...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 1                                                                                aggregator.py:276
+[13:04:20] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 1                                            aggregator.py:428
+[13:04:33] INFO     Collaborator 1 is sending task results for train, round 1                                                                  aggregator.py:428
+[13:04:35] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 1                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9380                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0839                                                                                                     aggregator.py:742
+[13:04:37] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9058                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.905800                                                                                   aggregator.py:753
+INFO     Saving round 2 model...                                                                                                    aggregator.py:787
+INFO     Starting round 2...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 2                                                                                aggregator.py:276
+[13:04:39] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 2                                            aggregator.py:428
+[13:04:53] INFO     Collaborator 1 is sending task results for train, round 2                                                                  aggregator.py:428
+[13:04:54] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 2                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9522                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0763                                                                                                     aggregator.py:742
+[13:04:56] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9380                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.938000                                                                                   aggregator.py:753
+INFO     Saving round 3 model...                                                                                                    aggregator.py:787
+INFO     Starting round 3...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 3                                                                                aggregator.py:276
+[13:04:58] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 3                                            aggregator.py:428
+[13:05:12] INFO     Collaborator 1 is sending task results for train, round 3                                                                  aggregator.py:428
+[13:05:13] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 3                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9600                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0734                                                                                                     aggregator.py:742
+[13:05:15] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9522                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.952200                                                                                   aggregator.py:753
+INFO     Saving round 4 model...                                                                                                    aggregator.py:787
+INFO     Starting round 4...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 4                                                                                aggregator.py:276
+[13:05:17] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 4                                            aggregator.py:428
+[13:05:30] INFO     Collaborator 1 is sending task results for train, round 4                                                                  aggregator.py:428
+[13:05:31] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 4                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9638                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0721                                                                                                     aggregator.py:742
+[13:05:33] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+[13:05:34] INFO     acc:    0.9600                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.960000                                                                                   aggregator.py:753
+INFO     Saving round 5 model...                                                                                                    aggregator.py:787
+INFO     Starting round 5...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 5                                                                                aggregator.py:276
+[13:05:35] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 5                                            aggregator.py:428
+[13:05:49] INFO     Collaborator 1 is sending task results for train, round 5                                                                  aggregator.py:428
+[13:05:50] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 5                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9692                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0715                                                                                                     aggregator.py:742
+[13:05:53] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9638                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.963800                                                                                   aggregator.py:753
+INFO     Saving round 6 model...                                                                                                    aggregator.py:787
+INFO     Starting round 6...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 6                                                                                aggregator.py:276
+[13:05:54] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 6                                            aggregator.py:428
+[13:06:08] INFO     Collaborator 1 is sending task results for train, round 6                                                                  aggregator.py:428
+[13:06:09] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 6                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9654                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0705                                                                                                     aggregator.py:742
+[13:06:11] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9692                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.969200                                                                                   aggregator.py:753
+INFO     Saving round 7 model...                                                                                                    aggregator.py:787
+INFO     Starting round 7...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 7                                                                                aggregator.py:276
+[13:06:13] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 7                                            aggregator.py:428
+[13:06:27] INFO     Collaborator 1 is sending task results for train, round 7                                                                  aggregator.py:428
+[13:06:28] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 7                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9708                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0701                                                                                                     aggregator.py:742
+[13:06:30] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9654                                                                                                             aggregator.py:742
+INFO     Saving round 8 model...                                                                                                    aggregator.py:787
+INFO     Starting round 8...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 8                                                                                aggregator.py:276
+[13:06:32] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 8                                            aggregator.py:428
+[13:06:45] INFO     Collaborator 1 is sending task results for train, round 8                                                                  aggregator.py:428
+[13:06:46] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 8                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9698                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0700                                                                                                     aggregator.py:742
+[13:06:48] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9708                                                                                                             aggregator.py:742
+INFO     Saved the best model with score 0.970800                                                                                   aggregator.py:753
+[13:06:49] INFO     Saving round 9 model...                                                                                                    aggregator.py:787
+INFO     Starting round 9...                                                                                                        aggregator.py:795
+INFO     Sending tasks to collaborator 1 for round 9                                                                                aggregator.py:276
+[13:06:50] INFO     Collaborator 1 is sending task results for aggregated_model_validation, round 9                                            aggregator.py:428
+[13:07:03] INFO     Collaborator 1 is sending task results for train, round 9                                                                  aggregator.py:428
+[13:07:05] INFO     Collaborator 1 is sending task results for locally_tuned_model_validation, round 9                                         aggregator.py:428
+INFO     locally_tuned_model_validation task metrics...                                                                             aggregator.py:694
+INFO     acc:    0.9746                                                                                                             aggregator.py:742
+INFO     train task metrics...                                                                                                      aggregator.py:694
+INFO     cross_entropy:  0.0698                                                                                                     aggregator.py:742
+[13:07:07] INFO     aggregated_model_validation task metrics...                                                                                aggregator.py:694
+INFO     acc:    0.9698                                                                                                             aggregator.py:742
+INFO     Saving round 10 model...                                                                                                   aggregator.py:787
+INFO     Experiment Completed. Cleaning up...                                                                                       aggregator.py:793
+INFO     Sending signal to collaborator 1 to shutdown...                                                                            aggregator.py:238
