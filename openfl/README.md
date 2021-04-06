@@ -1,13 +1,15 @@
 # openfl Example
 
 Example is executed from $HOME directory
+
 Collaborator and aggregator are physically separate machines accessible through ssh
+
 1. Prepare conda environment:
 
 ```
 conda create --copy -p ./openfl_env -c conda-forge python=3.8 conda-pack
 conda activate ./openfl_env
-pip install openfl
+pip install openfl # only for x86-64 linux
 ```
 
 2. Pack environment and sent it to collaborator/aggregator:
