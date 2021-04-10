@@ -1,8 +1,8 @@
-# openfl Example
+# OpenFL Example
 
-Example is executed from $HOME directory
+Example is executed from $HOME/openfl_workspace directory with $HOME/openfl_env environment
 
-Collaborator and aggregator are physically separate machines accessible through ssh
+Collaborators and aggregator are physically separate and ssh accessible machines
 
 1. Prepare conda environment:
 
@@ -12,7 +12,7 @@ conda activate ./openfl_env
 pip install openfl # only for x86-64 linux
 ```
 
-2. Pack environment and sent it to collaborator/aggregator:
+2. Pack environment and sent it to collaborators/aggregator:
 ```
 # pack
 conda-pack -p ./openfl_env -o ./
@@ -23,17 +23,18 @@ source openfl_env/bin/activate
 conda-unpack
 ```
 
-3. Create openfl_workspace on aggregator and collaborator, fill export field in prepare_template.sh and start preparing on aggregator:
+3. Create openfl_workspace on aggregator and collaborators, fill export field in prepare_template.sh and start preparing on aggregator:
 ```
 mkdir -p openfl_workspace && cd openfl_workspace
 ./prepare_template.sh
-# type 'y' and '1' on openfl questions
+# type 'y' and collaborator index on openfl questions
 ```
 
-4. Start aggregator and collaborator:
+4. Start aggregator and collaborators:
 ```
 # aggregator
 fx aggregator start
-# collaborator
+# collaborators
 fx collaborator start -n 1
+fx collaborator start -n 2
 ```
