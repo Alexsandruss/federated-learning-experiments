@@ -1,0 +1,6 @@
+Name	Link	Tags
+Federated Forest	https://arxiv.org/abs/1905.10053	vertical FL,random forest
+Federated personalized random forest for human activity recognition	https://www.aimspress.com/article/doi/10.3934/mbe.2022044	horizontal fl, random forest, differential privacy, human activity recognition
+DFedForest: Decentralized Federated Forest	https://ieeexplore.ieee.org/document/9284805, https://github.com/GTA-UFRJ-team/DFedForest	random forest, blockchain
+FLoRA: Single-shot Hyper-parameter Optimization for Federated Learning	https://arxiv.org/abs/2112.08524	hyperparameters,gbt
+Practical Federated Gradient Boosting Decision Trees	https://arxiv.org/abs/1911.04206	gbt
