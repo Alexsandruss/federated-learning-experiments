@@ -1,0 +1,12 @@
+params:
+  cuda_devices: []
+
+optional_plugin_components: {}
+
+shard_descriptor:
+  template: sgdreg_shard_descriptor.SGDRegSD
+  params:
+    rank: __ith_envoy__
+    n_samples: 10000
+    noise: 0.1
+    test_size: 0.333
