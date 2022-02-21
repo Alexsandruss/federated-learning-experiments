@@ -1,0 +1,13 @@
+Name	Link	Year	Tags
+SecureBoost: A Lossless Federated Learning Framework	https://arxiv.org/abs/1901.08755	2019	vertical FL, gbt, xgboost
+Federated Forest	https://arxiv.org/abs/1905.10053	2019	vertical FL, random forest
+Privacy Preserving Vertical Federated Learning for Tree-based Models	https://arxiv.org/abs/2008.06170	2020	vertical FL, decision tree, random forest, gbt
+DFedForest: Decentralized Federated Forest	https://ieeexplore.ieee.org/document/9284805	2020	random forest, blockchain
+Federated personalized random forest for human activity recognition	https://www.aimspress.com/article/doi/10.3934/mbe.2022044	2021	horizontal FL, random forest
+An Efficient and Robust System for Vertically Federated Random Forest	https://arxiv.org/abs/2201.10761	2022	vertical FL, random forest
+Practical Federated Gradient Boosting Decision Trees	https://arxiv.org/abs/1911.04206	2019	horizontal FL, gbt
+FetchSGD: Communication-Efficient Federated Learning with Sketching	https://arxiv.org/abs/2007.07682	2020	aggregation-broadcasting
+A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources	https://arxiv.org/abs/2103.06261	2021	tree models
+FedVoting: A Cross-Silo Boosting Tree Construction Method for Privacy-Preserving Long-Term Human Mobility Prediction	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8708522	2021	aggregation-broadcasting, gbt
+A Fair and Efficient Hybrid Federated Learning Framework based on XGBoost for Distributed Power Prediction	http://arxiv-export-lb.library.cornell.edu/abs/2201.02783	2022	horizontal FL, vertical FL, gbt
+FederBoost: Private Federated Learning for GBDT	https://arxiv.org/abs/2011.02796	2020	horizontal FL, vertical FL, gbt
